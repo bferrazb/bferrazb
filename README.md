@@ -1,6 +1,6 @@
 ## Hey there! I'm Bruno, currently a student and also working as a Senior Marketing Coordinator!
 
-- 👔 I currently work at The Universal Group as a Senior Marketing Coordinator
+- 👔 I currently work at SPLICE Software as a Marketing Manager
 - 📚 I'm studying at University of British Columbia - my plans are to graduate in CS
 - 👨‍💻 In my free time I study Python and Java
 - ✔️ 2022 Goals: Learn Node.js and React
