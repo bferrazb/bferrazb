@@ -1,9 +1,9 @@
-## Hey there! I'm Bruno, currently a student and also working as a Senior Marketing Coordinator!
+## Hey there! I'm Bruno, a Marketing Manager with a passion for Cybersecurity!
 
 - 👔 I currently work at SPLICE Software as a Marketing Manager
-- 📚 I'm studying at University of British Columbia - my plans are to graduate in CS
-- 👨‍💻 In my free time I study Python and Java
-- ✔️ 2022 Goals: Learn Node.js and React
+- 📚 I'm studying at British Columbia Institute of Technology - Computer Science Certificate
+- 👨‍💻 In my free time I study Python and train my Cybersecurity skills on TryHackMe
+- ✔️ 2024 Goals: Complete at least 2 TryHackMe pathways
 - 📷 Some of my hobbies are: Photography, gaming, reading, camping, and hiking!
 
 ### My Social Platforms:
