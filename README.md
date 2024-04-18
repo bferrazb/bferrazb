@@ -1,6 +1,6 @@
 ## Hey there! I'm Bruno, a Marketing Manager with a passion for Cybersecurity!
 
-- 👔 I currently work at SPLICE Software as a Marketing Manager
+- 👔 I'm currently looking for my next job opportunity in the Marketing industry
 - 📚 I'm studying at British Columbia Institute of Technology - Computer Science Certificate
 - 👨‍💻 In my free time I study Python and train my Cybersecurity skills on TryHackMe
 - ✔️ 2024 Goals: Complete at least 2 TryHackMe pathways
