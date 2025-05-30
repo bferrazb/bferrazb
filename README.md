@@ -1,9 +1,8 @@
 ## Hey there! I'm Bruno, a Marketing Manager with a passion for Cybersecurity!
 
-- 👔 I'm currently looking for my next job opportunity in the Marketing industry
-- 📚 I'm studying at British Columbia Institute of Technology - Computer Science Certificate
+- 👔 I'm currently working as a Marketing Coordinator at a Fintech startup
+- 📚 I'm attending the Computer Systems program at British Columbia Institute of Technology (BCIT)
 - 👨‍💻 In my free time I study Python and train my Cybersecurity skills on TryHackMe
-- ✔️ 2024 Goals: Complete at least 2 TryHackMe pathways
 - 📷 Some of my hobbies are: Photography, gaming, reading, camping, and hiking!
 
 ### My Social Platforms:
