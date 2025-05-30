@@ -22,5 +22,5 @@
 
 
 [github]: https://github.com/bferrazb 
-[linkedin]: https://www.linkedin.com/in/brunofbregnoles/
+[linkedin]: https://www.linkedin.com/in/bferrazb/
 [instagram]: https://www.instagram.com/bferrazb/
