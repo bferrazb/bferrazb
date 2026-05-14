@@ -1,6 +1,6 @@
-## Hey there! I'm Bruno, a Marketing Manager with a passion for Cybersecurity!
+## Hey there! I'm Bruno, a marketing professional with a passion for Cybersecurity!
 
-- 👔 I'm currently working as a Marketing Coordinator at a Fintech startup
+- 👔 I'm currently working as a Demand Generation Specialist at DSN Software
 - 📚 I'm attending the Computer Systems program at British Columbia Institute of Technology (BCIT)
 - 👨‍💻 In my free time I study Python and train my Cybersecurity skills on TryHackMe
 - 📷 Some of my hobbies are: Photography, gaming, reading, camping, and hiking!
